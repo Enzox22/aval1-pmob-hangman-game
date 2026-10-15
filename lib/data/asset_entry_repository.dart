@@ -1,4 +1,5 @@
 import 'package:flutter/services.dart';
+import 'package:flutter/foundation.dart';
 import 'package:hangman_game/data/entry_data_exception.dart';
 import 'package:hangman_game/data/entry_json_parser.dart';
 import 'package:hangman_game/domain/models/hangman_entry.dart';
